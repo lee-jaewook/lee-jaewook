@@ -20,6 +20,9 @@
 ## 🌱 Git Contribution Chart
  ![Snake animation](https://github.com/lee-jaewook/lee-jaewook/blob/output/github-contribution-grid-snake.svg)<br><br>
   
+## 📊 &nbsp;**This week I spent my time on**
+  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=lee-jaewook&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+  
   
 ## 💪 Skils
 <div style="display: inline_block">
