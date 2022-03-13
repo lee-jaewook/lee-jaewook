@@ -6,16 +6,17 @@
   <a href="https://github.com/lee-jaewook">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lee-jaewook&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-jaewook&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>  
+  
   
 ### 📕 Latest Blog Posts
 ---
 <!-- BLOG-POST-LIST:START -->
 - [Github&lpar;깃허브&rpar; 프로필 꾸미기&lpar;1&rpar;](https://lee-jaewook.github.io/2022/03/11/git_profile_1.html)
 - [벡준 | 1157번 | 단어 공부](https://lee-jaewook.github.io/2022/03/10/bjoon_1157.html)
-<!-- BLOG-POST-LIST:END -->
-##
-##
+<!-- BLOG-POST-LIST:END -->  
+  
+  
 ### 💪 Skils
 ---
 <div style="display: inline_block"><br>
@@ -27,13 +28,17 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
-##
-##
+</div>  
+  
+  
 ### 📮 Socials
 ---
 <div style="display: inline_block"><br>
   <a href="https://github.com/lee-jaewook" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lee-jaewook/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  	<a href="jaewook_lee@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div>
+</div>  
+  
+  
+### 🌱 Git Contribution Chart
+---
