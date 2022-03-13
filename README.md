@@ -15,11 +15,8 @@
 <!-- BLOG-POST-LIST:END --><br>
   
 ## 🌱 Git Contribution Chart
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)<br>
   
-  
-  
-  
-  <br>
   
 ## 💪 Skils
 <div style="display: inline_block">
