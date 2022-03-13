@@ -29,6 +29,7 @@
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
+  
 ### 📮 Socials
 ---
 <div style="display: inline_block"><br>
