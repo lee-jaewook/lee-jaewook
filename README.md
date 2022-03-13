@@ -12,10 +12,16 @@
 <!-- BLOG-POST-LIST:START -->
 - [Github&lpar;깃허브&rpar; 프로필 꾸미기&lpar;1&rpar;](https://lee-jaewook.github.io/2022/03/11/git_profile_1.html)
 - [벡준 | 1157번 | 단어 공부](https://lee-jaewook.github.io/2022/03/10/bjoon_1157.html)
-<!-- BLOG-POST-LIST:END -->  
+<!-- BLOG-POST-LIST:END --><br>
+  
+## 🌱 Git Contribution Chart
   
   
-## 💪 Skils & 📮 Socials
+  
+  
+  <br>
+  
+## 💪 Skils
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -25,8 +31,10 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>  
+</div><br>
   
+  
+## 📮 Socials  
 <div style="display: inline_block"><br>
   <a href="https://github.com/lee-jaewook" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lee-jaewook/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -34,4 +42,4 @@
 </div>  
   
   
-## 🌱 Git Contribution Chart
+
