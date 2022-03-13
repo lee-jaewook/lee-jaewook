@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:END --><br>
   
 ## 🌱 Git Contribution Chart
- ![Snake animation](https://github.com/lee-jaewook/lee-jaewook/blob/output/github-contribution-grid-snake.svg)<br><br><br>
+ ![Snake animation](https://github.com/lee-jaewook/lee-jaewook/blob/output/github-contribution-grid-snake.svg)<br><br>
   
   
 ## 💪 Skils
