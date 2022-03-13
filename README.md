@@ -22,65 +22,50 @@
   
 ## 📊 &nbsp;**I spent my time on**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-136-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-266%20Thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
-> 🏆 68 Contributions in the Year 2022
- > 
-> 📦 147.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
+**🐱 저의 GitHub 정보에요.** 
 
-```text
-🌞 Morning    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-🌆 Daytime    35 commits     ███████████░░░░░░░░░░░░░░   45.45% 
-🌃 Evening    35 commits     ███████████░░░░░░░░░░░░░░   45.45% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Sunday** 
+> 🏆 72 만큼의 Contributions을 2022년에 했어요
+ > 
+> 📦 GitHub의 147.1 kB만큼의 저장소를 사용하고 있어요. 
+ > 
+> 🚫 구직중이지 않아요.
+ > 
+> 📜 31개의 Public Repository를 만들었어요. 
+ > 
+> 🔑 1개의 Private Repository를 만들었어요. 
+ > 
+**저는 아침형 인간이에요. 🐤** 
 
 ```text
-Monday       14 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    13 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
-Thursday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
-Friday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.39% 
-Saturday     15 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.48% 
-Sunday       26 commits     ████████░░░░░░░░░░░░░░░░░   33.77%
+🌞 아침         7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.64% 
+🌆 낮　         39 commits     ████████████░░░░░░░░░░░░░   48.15% 
+🌃 저녁         35 commits     ██████████░░░░░░░░░░░░░░░   43.21% 
+🌙 밤　         0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
 ```text
-⌚︎ Time Zone: Asia/Seoul
+💬 프로그래밍 언어들: 
+이번 주에 활동은 없어요.
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+🔥 에디터들: 
+이번 주에 활동은 없어요.
 
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+💻 운영 체제들: 
+이번 주에 활동은 없어요.
 
 ```
 
-**I Mostly Code in Jupyter Notebook** 
+**저는 주로 Jupyter Notebook 언어를 사용해요.** 
 
 ```text
 Jupyter Notebook         9 repos             ████████████░░░░░░░░░░░░░   50.0% 
@@ -92,12 +77,8 @@ Java                     1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/lee-jaewook/lee-jaewook/master/charts/bar_graph.png) 
-
-
- Last Updated on 13/03/2022 07:25:18 UTC
+ Last Updated on 13/03/2022 07:49:35 UTC
 <!--END_SECTION:waka-->
   
   
