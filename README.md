@@ -10,10 +10,10 @@
   
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Github&lpar;깃허브&rpar; 프로필 꾸미기&lpar;4&rpar;](https://lee-jaewook.github.io/2022/03/12/git_profile_4.html)
-- [Github&lpar;깃허브&rpar; 프로필 꾸미기&lpar;3&rpar;](https://lee-jaewook.github.io/2022/03/11/git_profile_3.html)
-- [Github&lpar;깃허브&rpar; 프로필 꾸미기&lpar;2&rpar;](https://lee-jaewook.github.io/2022/03/10/git_profile_2.html)
-- [Github&lpar;깃허브&rpar; 프로필 꾸미기&lpar;1&rpar;](https://lee-jaewook.github.io/2022/03/09/git_profile_1.html)
+- [Github&lpar;깃허브&rpar; 프로필 꾸미기&lpar;4&rpar; - Contribution Chart](https://lee-jaewook.github.io/2022/03/12/git_profile_4.html)
+- [Github&lpar;깃허브&rpar; 프로필 꾸미기&lpar;3&rpar; - Technique Icons &amp;amp; Badge](https://lee-jaewook.github.io/2022/03/11/git_profile_3.html)
+- [Github&lpar;깃허브&rpar; 프로필 꾸미기&lpar;2&rpar; - Stats](https://lee-jaewook.github.io/2022/03/10/git_profile_2.html)
+- [Github&lpar;깃허브&rpar; 프로필 꾸미기&lpar;1&rpar; - Init &amp;amp; Posts list](https://lee-jaewook.github.io/2022/03/09/git_profile_1.html)
 - [벡준 | 1157번 | 단어 공부](https://lee-jaewook.github.io/2022/03/08/bjoon_1157.html)
 <!-- BLOG-POST-LIST:END --><br>
   
