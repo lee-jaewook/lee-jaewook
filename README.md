@@ -1,5 +1,5 @@
 <!-- ./REAME.md -->
-# Hi there, I'm Jaewook Lee 33 👋 
+# Hi there, I'm Jaewook Lee 👋 
 ### 🔥 Github Stats
 
 <div align="center">
