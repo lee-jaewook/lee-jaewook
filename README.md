@@ -20,7 +20,7 @@
 ## 🌱 Git Contribution Chart
  ![Snake animation](https://github.com/lee-jaewook/lee-jaewook/blob/output/github-contribution-grid-snake.svg)<br><br>
   
-## 📊 &nbsp;**This week I spent my time on**
+## 📊 &nbsp;**I spent my time on**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-44%20mins-blue)
 
