@@ -14,8 +14,8 @@
 - [Github&lpar;깃허브&rpar; 프로필 꾸미기&lpar;1&rpar;](https://lee-jaewook.github.io/2022/03/11/git_profile_1.html)
 - [벡준 | 1157번 | 단어 공부](https://lee-jaewook.github.io/2022/03/10/bjoon_1157.html)
 <!-- BLOG-POST-LIST:END -->
-
-  
+##
+##
 ### 💪 Skils
 ---
 <div style="display: inline_block"><br>
@@ -28,8 +28,8 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
-
-  
+##
+##
 ### 📮 Socials
 ---
 <div style="display: inline_block"><br>
