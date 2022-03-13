@@ -22,6 +22,82 @@
   
 ## 📊 &nbsp;**This week I spent my time on**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-136-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 68 Contributions in the Year 2022
+ > 
+> 📦 147.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 31 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+🌆 Daytime    35 commits     ███████████░░░░░░░░░░░░░░   45.45% 
+🌃 Evening    35 commits     ███████████░░░░░░░░░░░░░░   45.45% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       14 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    13 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
+Thursday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
+Friday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.39% 
+Saturday     15 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.48% 
+Sunday       26 commits     ████████░░░░░░░░░░░░░░░░░   33.77%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         9 repos             ████████████░░░░░░░░░░░░░   50.0% 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/lee-jaewook/lee-jaewook/master/charts/bar_graph.png) 
+
+
+ Last Updated on 13/03/2022 07:25:18 UTC
 <!--END_SECTION:waka-->
   
   
