@@ -11,10 +11,10 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Utterances로 깃허브 페이지&lpar;Github Page&rpar; 댓글 기능 추가하는 법](https://lee-jaewook.github.io/2022/03/14/add_comment_func.html)
+- [Oracle DB &amp;amp; SQL 4&lpar;DML&rpar;](https://lee-jaewook.github.io/2021/11/28/oracle4.html)
 - [Oracle DB &amp;amp; SQL 3&lpar;오라클 데이터타입 정리&rpar;](https://lee-jaewook.github.io/2021/11/21/oracle3.html)
 - [Oracle DB &amp;amp; SQL 2&lpar;M1 맥북에서 오라클 DB를 사용하는 방법&rpar;](https://lee-jaewook.github.io/2021/11/09/oracle2.html)
 - [Oracle DB &amp;amp; SQL 1&lpar;SQL, DB, DBMS의 개념&rpar;](https://lee-jaewook.github.io/2021/11/07/oracle1.html)
-- [이진 탐색&lpar;Binary Search&rpar; by 파이썬](https://lee-jaewook.github.io/2021/10/24/binary-search.html)
 <!-- BLOG-POST-LIST:END --><br>
   
 ## 🌱 Git Contribution Chart
