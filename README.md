@@ -11,10 +11,10 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [About](https://lee-jaewook.github.io/about/)
-- [게시물 테스트2](https://lee-jaewook.github.io/p/test-kk/)
+- [Algorithm](https://lee-jaewook.github.io/p/algorithm/)
+- [Computer Science 공부 계획](https://lee-jaewook.github.io/p/computer-science1/)
 - [게시물 테스트](https://lee-jaewook.github.io/p/test-korean/)
 - [Archives](https://lee-jaewook.github.io/archives/)
-- [Markdown Syntax Guide](https://lee-jaewook.github.io/p/markdown-syntax-guide/)
 <!-- BLOG-POST-LIST:END --><br>
   
 ## 🌱 Git Contribution Chart
