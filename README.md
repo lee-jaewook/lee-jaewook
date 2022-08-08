@@ -13,8 +13,8 @@
 - [About](https://lee-jaewook.github.io/about/)
 - [Algorithm](https://lee-jaewook.github.io/p/algorithm/)
 - [Computer Science 공부 계획](https://lee-jaewook.github.io/p/computer-science1/)
-- [게시물 테스트](https://lee-jaewook.github.io/p/test-korean/)
 - [Archives](https://lee-jaewook.github.io/archives/)
+- [Links](https://lee-jaewook.github.io/links/)
 <!-- BLOG-POST-LIST:END --><br>
   
 ## 🌱 Git Contribution Chart
