@@ -1,5 +1,5 @@
 <!-- ./REAME.md -->
-# Hi there, I'm Jaewook Lee <a href="https://lee-jaewook.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
+# Hi there, I'm Jaewook Lee <a href="https://lee-jaewook.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29"></a>
 ## 🔥 Github Stats
 <div align="center">
   <a href="https://github.com/lee-jaewook">
