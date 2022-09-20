@@ -10,11 +10,11 @@
   
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unserstanding JavaServer Page Model 1 and Model 2&lpar;MVC&rpar; Architecture](https://lee-jaewook.github.io/p/mvc-architecture/)
 - [About](https://lee-jaewook.github.io/about/)
-- [Algorithm](https://lee-jaewook.github.io/p/algorithm/)
-- [Computer Science 공부 계획](https://lee-jaewook.github.io/p/computer-science1/)
 - [Archives](https://lee-jaewook.github.io/archives/)
 - [Links](https://lee-jaewook.github.io/links/)
+- [Search](https://lee-jaewook.github.io/search/)
 <!-- BLOG-POST-LIST:END --><br>
   
 ## 🌱 Git Contribution Chart
