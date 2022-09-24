@@ -22,7 +22,7 @@
   
 <!-- ## 📊 &nbsp;**I spent my time on**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,7 +64,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2022 18:59:28 UTC
+ Last Updated on 24/09/2022 18:55:53 UTC
 <!--END_SECTION:waka--><br>
   
   
