@@ -8,12 +8,8 @@
 - :thinking: [Linear, or Non-Linear, That is the Question!](https://arxiv.org/abs/2111.07265) was accepted in WSDM 2022.
 - :earth_asia: [Climate Modeling with Neural Diffusion Equations](https://arxiv.org/abs/2111.06011) was accepted in ICDM 2021.
 - :bookmark: [LT-OCF: Learnable-Time ODE-based Collaborative Filtering](https://arxiv.org/abs/2108.06208) was accepted in CIKM 2021. -->
+
 <br>
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unserstanding JavaServer Page Model 1 and Model 2&lpar;MVC&rpar; Architecture](https://lee-jaewook.github.io/p/mvc-architecture/)
-- [About](https://lee-jaewook.github.io/about/)
-- [Archives](https://lee-jaewook.github.io/archives/)
-- [Links](https://lee-jaewook.github.io/links/)
-- [Search](https://lee-jaewook.github.io/search/)
 <!-- BLOG-POST-LIST:END --><br>
