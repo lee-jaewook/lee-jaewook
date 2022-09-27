@@ -1,6 +1,8 @@
 <p><pre align="center">
 <strong>Jaewook Lee/</strong> <a href="https://lee-jaewook.github.io">Blog</a> / <a href="https://lee-jaewook.github.io/resumecard/">Resume</a> / <a href="https://github.com/lee-jaewook">GitHub</a> / <a href="https://www.linkedin.com/in/lee-jaewook/">Linkedin</a></pre></p>
 
+
+
 ### 💪 Skils
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
