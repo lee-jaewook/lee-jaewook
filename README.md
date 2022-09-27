@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Jaewook Lee/</strong> <a href="https://lee-jaewook.github.io">Blog</a> / <a href="https://lee-jaewook.github.io">Resume</a> / <a href="https://github.com/lee-jaewook">GitHub</a> / <a href="https://www.linkedin.com/in/lee-jaewook/">Linkedin</a></pre></p>
+<strong>Jaewook Lee/</strong> <a href="https://lee-jaewook.github.io">Blog</a> / <a href="https://lee-jaewook.github.io/resume">Resume</a> / <a href="https://github.com/lee-jaewook">GitHub</a> / <a href="https://www.linkedin.com/in/lee-jaewook/">Linkedin</a></pre></p>
 
 
 
